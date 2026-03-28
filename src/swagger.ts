@@ -8,7 +8,7 @@ const options = {
       title: 'USERS API',
       version: '1.0.0',
       description:
-        'API for an e-commerce platform with real-time shipment tracking',
+        'API to handle users for DevMart API',
     },
     components: {
       securitySchemes: {
